@@ -1,4 +1,0 @@
----
-# Valeurs de secours utilisees uniquement hors pool APG (voir
-# roles/client/defaults/main.yml pour l'explication).
-motd_secret: "ARP-MITM-OK"

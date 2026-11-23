@@ -1,5 +1,0 @@
----
-- name: Redemarrer xinetd
-  systemd:
-    name: xinetd
-    state: restarted
